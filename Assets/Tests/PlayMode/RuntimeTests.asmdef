@@ -5,7 +5,8 @@
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
         "AWSIM",
-        "AccessExtensions"
+        "AccessExtensions",
+        "com.tier4.awsim.vehicle"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

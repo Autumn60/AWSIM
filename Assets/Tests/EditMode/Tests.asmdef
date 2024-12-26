@@ -6,7 +6,8 @@
         "UnityEditor.TestRunner",
         "AWSIM",
         "AccessExtensions",
-        "AWSIM.Editor"
+        "AWSIM.Editor",
+        "com.tier4.awsim.vehicle"
     ],
     "includePlatforms": [
         "Editor"
